@@ -1,0 +1,6 @@
+name: SpecCommand
+version: 0.0.1
+main: de.dulli.main.Main
+author: Dulli
+commands:
+  spec:
